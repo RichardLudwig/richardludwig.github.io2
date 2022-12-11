@@ -614,7 +614,7 @@ progress {
 }
 
 #profile-img {
-  border-radius: 20%;
+  border-radius: 0.5rem;
 }
 
 .figure {
