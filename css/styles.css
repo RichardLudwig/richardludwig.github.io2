@@ -613,6 +613,10 @@ progress {
   height: auto;
 }
 
+#profile-img {
+  border-radius: 20%;
+}
+
 .figure {
   display: inline-block;
 }
