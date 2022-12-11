@@ -11355,6 +11355,7 @@ html {
   font-size: 1.25rem;
   justify-content: center;
   align-items: center;
+  border-width: 0px;
 }
 
 #mainNav {
